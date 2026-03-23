@@ -1,1 +1,2 @@
 # odin-recipes
+This HTML file consists of 3 recipes for my favourite dishes, an Egg Sandwich, a South African Xhosa meal called Umphokoqo and Spaghetti & Pilchard. This website is my first learning project on HTML, I've learned how to do lists (unordered and ordered lists), bold and italic content, a simple html boilerplate, html elements and tags, absolute and relative links and much more exciting stuff I used to create this recipe website.
